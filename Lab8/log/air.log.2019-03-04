@@ -1,0 +1,28 @@
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Starting program_______________________
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Create Dean(singleton)
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Create first(Course) by FactoryMethod
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Create and add students to course
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Counter of courses
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - Sorting by name
+04.03.2019 08:35:04 [main] INFO  by.belstu.it.punko.main.Main  - End Program___________
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Starting program_______________________
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Create Dean(singleton)
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Create first(Course) by FactoryMethod
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Create and add students to course
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Counter of courses
+04.03.2019 08:37:45 [main] INFO  by.belstu.it.punko.main.Main  - Sorting by name
+04.03.2019 08:37:46 [main] INFO  by.belstu.it.punko.main.Main  - End Program___________
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Starting program_______________________
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Create Dean(singleton)
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Create first(Course) by FactoryMethod
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Create and add students to course
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Counter of courses
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - Sorting by name
+04.03.2019 08:38:53 [main] INFO  by.belstu.it.punko.main.Main  - End Program___________
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Starting program_______________________
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Create Dean(singleton)
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Create first(Course) by FactoryMethod
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Create and add students to course
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Counter of courses
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - Sorting by name
+04.03.2019 08:40:24 [main] INFO  by.belstu.it.punko.main.Main  - End Program___________

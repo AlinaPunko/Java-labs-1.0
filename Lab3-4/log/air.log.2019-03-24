@@ -1,0 +1,4 @@
+24.03.2019 13:29:55 [main] ERROR by.belstu.it.punko.validationSAX.ValidatorSAX  -  io error E:\лабы\СТП\Lab3-4\files\studentlist.xml (Не удается найти указанный файл)
+24.03.2019 13:31:11 [main] ERROR by.belstu.it.punko.validationSAX.ValidatorSAX  - files/student.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+24.03.2019 13:32:02 [main] ERROR by.belstu.it.punko.validationSAX.ValidatorSAX  - files/student.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.
+24.03.2019 13:43:30 [main] ERROR by.belstu.it.punko.validationSAX.ValidatorSAX  - files/XML.xml SAX error cvc-elt.1.a: Cannot find the declaration of element 'student'.

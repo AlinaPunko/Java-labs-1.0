@@ -1,0 +1,48 @@
+30.04.2019 08:52:31 [main] INFO  by.punko.belstu.Main  - Все люди
+
+30.04.2019 08:52:31 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 08:54:45 [main] INFO  by.punko.belstu.Main  - Все люди
+
+30.04.2019 08:54:45 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 08:54:45 [main] INFO  by.punko.belstu.Main  - Все письма
+
+30.04.2019 08:54:45 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 08:58:54 [main] INFO  by.punko.belstu.Main  - Все люди
+
+30.04.2019 08:58:55 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 08:58:55 [main] INFO  by.punko.belstu.Main  - Все письма
+
+30.04.2019 08:58:55 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 09:03:15 [main] INFO  by.punko.belstu.Main  - Все люди
+
+30.04.2019 09:03:15 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 09:03:15 [main] INFO  by.punko.belstu.Main  - Все письма
+
+30.04.2019 09:03:15 [main] INFO  by.punko.belstu.Main  - []
+30.04.2019 09:09:47 [main] INFO  by.punko.belstu.Main  - Все люди
+
+30.04.2019 09:09:47 [main] INFO  by.punko.belstu.Main  - [
+Author{FIO ='Петух Никита', Date of birth ='2000-04-07'}, 
+Author{FIO ='Пунько Алина', Date of birth ='2000-05-23'}, 
+Author{FIO ='Реут Ксения', Date of birth ='2000-02-06'}]
+30.04.2019 09:09:47 [main] INFO  by.punko.belstu.Main  - Все письма
+
+30.04.2019 09:09:47 [main] INFO  by.punko.belstu.Main  - [Letter{ID=1, Getter='Реут Ксения', Sender='Петух Никита', Topic='a', Text_of_letter='qwertyuiopasdfghjklzxcvbnm', Date_of_sending=2019-04-10}, Letter{ID=2, Getter='Реут Ксения', Sender='Пунько Алина', Topic='s', Text_of_letter='олшгонрепккавипрог', Date_of_sending=2019-04-11}, Letter{ID=3, Getter='Петух Никита', Sender='Пунько Алина', Topic='s', Text_of_letter='kiuyjhtgrfdvbgnh', Date_of_sending=2019-04-12}, Letter{ID=4, Getter='Петух Никита', Sender='Реут Ксения', Topic='n', Text_of_letter='kjyhgtrfghjuy', Date_of_sending=2019-04-13}, Letter{ID=5, Getter='Пунько Алина', Sender='Реут Ксения', Topic='r', Text_of_letter='логрнепмаипаро', Date_of_sending=2019-04-14}]
